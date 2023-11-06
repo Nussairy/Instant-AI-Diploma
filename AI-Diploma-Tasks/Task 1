@@ -1,0 +1,5 @@
+We can develop IOS and Android applications with python using some frameworks that allows writing the code with Python and then compile it into native code for both iOS and Android
+Here are few options:
+1- Kivy
+2- BeeWare Toga
+3- PyQt/PySide
